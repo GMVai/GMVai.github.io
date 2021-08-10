@@ -618,15 +618,15 @@ uglyURLs = false
     valineMeta = ['nick','mail']
     valinePageSize = 10
     valineLang = "zh-cn"
-    # valineVisitor = false
-    # valineHighlight = true
-    # valineAvatarForce = false
-    # valineRecordIP = false
-    # valineServerURLs = ""
-    # valineEmojiCDN = ""
-    # valineEmojiMaps = {}
-    # valineEnableQQ = false
-    # valineRequiredFields = []
+    valineVisitor = false
+    valineHighlight = true
+    valineAvatarForce = false
+    valineRecordIP = false
+    valineServerURLs = ""
+    valineEmojiCDN = ""
+    valineEmojiMaps = {}
+    valineEnableQQ = false
+    valineRequiredFields = []
     # 说明：https://valine.js.org/
 
     ## Utterances
