@@ -595,12 +595,12 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = true
+    enableComments = false
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
     # 直接加载评论，不需要手动点击按钮加载
-    autoLoadComments = true
+    autoLoadComments = false
 
     ## Disqus
     enableDisqus = false
@@ -608,23 +608,25 @@ uglyURLs = false
 
     ## Valine
     enableValine = true
-    valineAppId = "LB4vQM8gCI1rtW068lFGzxBy-gzGzoHsz"
-    valineAppKey = "NOaMqDJVoaql2QrdswuxgP42"
-    valinePlaceholder = "说点什么吧"
+    # valineAppId = 'LB4vQM8gCI1rtW068lFGzxBy-gzGzoHsz'
+    valineAppId = 'wVCss1DshelTjmUH3tWJVsas-MdYXbMMI' # 国际版
+    # valineAppKey = 'NOaMqDJVoaql2QrdswuxgP42'
+    valineAppKey = 'ceLDK9IhINTiLASNDRcyMLV5' # 国际版
+    valinePlaceholder = "写点什么吧……"
     valinePath = ""
     valineAvatar = "mp"
-    valineMeta = ["昵称"]
+    valineMeta = ['nick','mail']
     valinePageSize = 10
     valineLang = "zh-cn"
-    valineVisitor = false
-    valineHighlight = true
-    valineAvatarForce = false
-    valineRecordIP = false
-    valineServerURLs = ""
-    valineEmojiCDN = ""
-    valineEmojiMaps = {}
-    valineEnableQQ = false
-    valineRequiredFields = []
+    # valineVisitor = false
+    # valineHighlight = true
+    # valineAvatarForce = false
+    # valineRecordIP = false
+    # valineServerURLs = ""
+    # valineEmojiCDN = ""
+    # valineEmojiMaps = {}
+    # valineEnableQQ = false
+    # valineRequiredFields = []
     # 说明：https://valine.js.org/
 
     ## Utterances
