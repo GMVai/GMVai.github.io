@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>公明V爱之家</title>
+        <link>https://GMVai.github.io/</link>
+        <description>公明街道V爱之家网站。</description>
+        <generator>Hugo 0.87.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>GMVlove@163.com (公明街道V爱之家)</managingEditor>
+        
+        
+            <webMaster>GMVlove@163.com (公明街道V爱之家)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Tue, 10 Aug 2021 13:08:16 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://GMVai.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>听👂说👄爱情</title>
+                <link>https://GMVai.github.io/77/</link>
+                <guid isPermaLink="true">https://GMVai.github.io/77/</guid>
+                <pubDate>Mon, 09 Aug 2021 15:32:44 &#43;0800</pubDate>
+                
+                    <author>GMVlove@163.com (公明街道V爱之家)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h1 id=&#34;爱你在心口难开七夕树洞&#34;&gt;爱你在心口难开——七夕树洞&lt;/h1&gt;
+&lt;p&gt;恋爱中甜蜜的时刻、苦涩的时刻&lt;/p&gt;
+&lt;p&gt;婚姻中那些相濡以沫、纠结徘徊的情感&lt;/p&gt;
+&lt;p&gt;你……&lt;/p&gt;
+&lt;p&gt;❤️&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

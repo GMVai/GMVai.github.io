@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">公明V爱之家</title>
+    <subtitle type="html">公明街道V爱之家网站。</subtitle>
+    <updated>2021-08-10T13:08:16&#43;08:00</updated>
+    <id>https://GMVai.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://GMVai.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://GMVai.github.io/atom.xml" />
+    <author>
+            <name>公明街道V爱之家</name>
+            <uri>https://GMVai.github.io/</uri>
+            
+                <email>GMVlove@163.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
+        <entry>
+            <title type="text">听👂说👄爱情</title>
+            <link rel="alternate" type="text/html" href="https://GMVai.github.io/77/" />
+            <id>https://GMVai.github.io/77/</id>
+            <updated>2021-08-10T12:49:20&#43;08:00</updated>
+            <published>2021-08-09T15:32:44&#43;08:00</published>
+            <author>
+                    <name>公明街道V爱之家</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>GMVlove@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">爱你在心口难开——七夕树洞 恋爱中甜蜜的时刻、苦涩的时刻 婚姻中那些相濡以沫、纠结徘徊的……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;爱你在心口难开七夕树洞&#34;&gt;爱你在心口难开——七夕树洞&lt;/h1&gt;
+&lt;p&gt;恋爱中甜蜜的时刻、苦涩的时刻&lt;/p&gt;
+&lt;p&gt;婚姻中那些相濡以沫、纠结徘徊的情感&lt;/p&gt;
+&lt;p&gt;你……&lt;/p&gt;
+&lt;p&gt;❤️&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
